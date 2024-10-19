@@ -27,6 +27,7 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
+        Привет NextJs!!!
           <Image
             className={styles.logo}
             src="https://nextjs.org/icons/next.svg"
